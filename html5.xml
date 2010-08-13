@@ -9,7 +9,35 @@
    
    <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
-      <title>Don&#8217;t Build from Scratch. You Now Have an HTML5 Boilerplate to Work With</title>
+      <title>html5shiv - HTML5 IE enabling script</title>
+      <link>http://code.google.com/p/html5shiv/</link>
+      <guid isPermaLink="false">http://rallen.github.com/webdevlinks/html5.xml</guid>
+      <description>
+        <![CDATA[
+        HTML5 JavaScript shiv for IE to recognise and style the HTML5 elements. 
+        <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+        ]]>
+      </description>
+    </item>
+    
+    <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>Modernizr - js library for HTML5 and CSS3</title>
+      <link>http://www.modernizr.com/</link>
+      <guid isPermaLink="false">http://rallen.github.com/webdevlinks/html5.xml</guid>
+      <description>
+        <![CDATA[
+        Modernizr is a small and simple JavaScript library that helps you take advantage of emerging web technologies (CSS3, HTML 5) 
+        while still maintaining a fine level of control over older browsers that may not yet support these new technologies.
+        ]]>
+      </description>
+    </item>
+    
+    <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>You Now Have an HTML5 Boilerplate to Work With</title>
       <link>http://feedproxy.google.com/~r/ajaxian/~3/al8IGiDtoao/dont-build-from-scratch-you-now-have-an-html5-boilerplate-to-work-with</link>
       <guid isPermaLink="false">http://rallen.github.com/webdevlinks/html5.xml</guid>
       <description>
@@ -18,5 +46,6 @@
         ]]>
       </description>
     </item>
+    
   </channel>
 </rss>
