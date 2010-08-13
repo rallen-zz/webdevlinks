@@ -14,10 +14,7 @@
       <guid isPermaLink="false">http://code.google.com/p/html5shiv/</guid>
       <description>
         <![CDATA[
-        HTML5 JavaScript shiv for IE to recognise and style the HTML5 elements. 
-        <!--[if lt IE 9]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
+        HTML5 JavaScript shiv for IE to recognise and style the HTML5 elements.        
         ]]>
       </description>
     </item>
