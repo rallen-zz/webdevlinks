@@ -6,6 +6,77 @@
     <description>various html5 demos and tutorials</description>
     <generator>by hand</generator>
     <atom:link rel="self" href="http://rallen.github.com/webdevlinks/html5.xml"/>
+    
+    <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>You Now Have an HTML5 Boilerplate to Work With</title>
+      <link>http://ajaxian.com/archives/dont-build-from-scratch-you-now-have-an-html5-boilerplate-to-work-with</link>
+      <guid isPermaLink="false">http://ajaxian.com/archives/dont-build-from-scratch-you-now-have-an-html5-boilerplate-to-work-with</guid>
+      <description>
+        <![CDATA[
+        An HTML5 boilerplate which leverages best practices to get your started. It&#8217;s essentially a good starting template of html and css and a folder structure that works.
+        ]]>
+      </description>
+    </item>
+    
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>html5reset</title>
+      <link>http://html5reset.org/</link>
+      <guid isPermaLink="false">http://html5reset.org/</guid>
+      <description>
+        <![CDATA[
+		template of really useful parts of HTML5 and CSS3        ]]>
+      </description>
+    </item>
+    
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>html5-site-template</title>
+      <link>http://github.com/dcneiner/html5-site-template</link>
+      <guid isPermaLink="false">http://github.com/dcneiner/html5-site-template</guid>
+      <description>
+        <![CDATA[
+        A simple HTML5 site template to save me some time when starting a new site design/development
+        ]]>
+      </description>
+    </item>
+    
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>html5rocks</title>
+      <link>http://www.html5rocks.com/</link>
+      <guid isPermaLink="false">http://www.html5rocks.com/</guid>
+      <description>
+        <![CDATA[
+        Googles HTML5 resource website
+        ]]>
+      </description>
+    </item>
+    
+    <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>html5 playground</title>
+      <link>http://playground.html5rocks.com/</link>
+      <guid isPermaLink="false">http://playground.html5rocks.com/</guid>
+      <description>
+        <![CDATA[
+        Googles HTML5 playground on html5rocks.com
+        ]]>
+      </description>
+    </item>
+    
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>HTML5 Studio</title>
+      <link>http://studio.html5rocks.com/</link>
+      <guid isPermaLink="false">http://studio.html5rocks.com/</guid>
+      <description>
+        <![CDATA[
+        The HTML5 Studio has nine demos that show off some fanciful sides of HTML5, CSS3 and friends.
+        ]]>
+      </description>
+    </item>
    
    <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
@@ -32,17 +103,7 @@
       </description>
     </item>
     
-    <item>
-      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
-      <title>You Now Have an HTML5 Boilerplate to Work With</title>
-      <link>http://ajaxian.com/archives/dont-build-from-scratch-you-now-have-an-html5-boilerplate-to-work-with</link>
-      <guid isPermaLink="false">http://ajaxian.com/archives/dont-build-from-scratch-you-now-have-an-html5-boilerplate-to-work-with</guid>
-      <description>
-        <![CDATA[
-        An HTML5 boilerplate which leverages best practices to get your started. It&#8217;s essentially a good starting template of html and css and a folder structure that works.
-        ]]>
-      </description>
-    </item>
+    
     
   </channel>
 </rss>
