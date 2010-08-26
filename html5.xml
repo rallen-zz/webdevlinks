@@ -32,6 +32,17 @@
     
      <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>diveintohtml5</title>
+      <link>http://diveintohtml5.org/</link>
+      <guid isPermaLink="false">http://diveintohtml5.org/</guid>
+      <description>
+        <![CDATA[
+		Learn HTML 5 Basics     ]]>
+      </description>
+    </item>
+    
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
       <title>html5-site-template</title>
       <link>http://github.com/dcneiner/html5-site-template</link>
       <guid isPermaLink="false">http://github.com/dcneiner/html5-site-template</guid>
