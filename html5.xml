@@ -6,6 +6,18 @@
     <description>various html5 demos and tutorials</description>
     <generator>by hand</generator>
     <atom:link rel="self" href="http://rallen.github.com/webdevlinks/html5.xml"/>
+   
+    
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>HTML5 Periodic Table of the Elements</title>
+      <link> http://joshduck.com/periodic-table.html</link>
+      <guid isPermaLink="false"> http://joshduck.com/periodic-table.html</guid>
+      <description>
+        <![CDATA[A fun and useful list of the 104 elements currently in the HTML5 working draft but organized like a periodic table of elements.]]>
+      </description>
+    </item>
+    
     
     <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
