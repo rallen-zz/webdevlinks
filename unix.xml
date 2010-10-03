@@ -9,14 +9,18 @@
    
    <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
-      <title>Don&#8217;t Build from Scratch. You Now Have an HTML5 Boilerplate to Work With</title>
-      <link>http://feedproxy.google.com/~r/ajaxian/~3/al8IGiDtoao/dont-build-from-scratch-you-now-have-an-html5-boilerplate-to-work-with</link>
-      <guid isPermaLink="false">http://rallen.github.com/webdevlinks/html5.xml</guid>
+      <title>Installing tomcat 6 on ubuntu 910</title>
+      <link>http://blog.dawouds.com/2010/01/installing-tomcat-6-on-ubuntu-910-full.html</link>
+      <guid isPermaLink="false">http://blog.dawouds.com/2010/01/installing-tomcat-6-on-ubuntu-910-full.html</guid>
       <description>
         <![CDATA[
-        An HTML5 boilerplate which leverages best practices to get your started. It&#8217;s essentially a good starting template of html and css and a folder structure that works.
-        ]]>
+		Installing tomcat 6 on ubuntu 910
+		]]>
       </description>
     </item>
+    
+    
+    
+    
   </channel>
 </rss>

@@ -9,14 +9,79 @@
    
    <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
-      <title>Don&#8217;t Build from Scratch. You Now Have an HTML5 Boilerplate to Work With</title>
-      <link>http://feedproxy.google.com/~r/ajaxian/~3/al8IGiDtoao/dont-build-from-scratch-you-now-have-an-html5-boilerplate-to-work-with</link>
-      <guid isPermaLink="false">http://rallen.github.com/webdevlinks/html5.xml</guid>
+      <title>jodd: the unbearable lightness of java</title>
+      <link>http://jodd.org/feed.xml</link>
+      <guid isPermaLink="false">http://jodd.org/feed.xml</guid>
       <description>
         <![CDATA[
-        An HTML5 boilerplate which leverages best practices to get your started. It&#8217;s essentially a good starting template of html and css and a folder structure that works.
+        Jodd | generic purpose java library and frameworks
         ]]>
       </description>
     </item>
+    
+    <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>Java tools for everyday things, like parsing, timing, and sound</title>
+      <link>http://www.ibm.com/developerworks/java/library/j-5things12/index.html?ca=drs-</link>
+      <guid isPermaLink="false">http://www.ibm.com/developerworks/java/library/j-5things12/index.html?ca=drs-</guid>
+      <description>
+        <![CDATA[
+        Java tools for everyday things, like parsing, timing, and sound
+        ]]>
+      </description>
+    </item>
+    
+    <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>jodd: the unbearable lightness of java</title>
+      <link>http://jodd.org/feed.xml</link>
+      <guid isPermaLink="false">http://jodd.org/feed.xml</guid>
+      <description>
+        <![CDATA[
+        Jodd | generic purpose java library and frameworks
+        ]]>
+      </description>
+    </item>
+    
+    
+    <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>Hazelcast - a simple distributed caching alternative</title>
+      <link>http://www.briandupreez.net/2010/09/hazelcast-simple-distributed-caching.html</link>
+      <guid isPermaLink="false">http://www.briandupreez.net/2010/09/hazelcast-simple-distributed-caching.html</guid>
+      <description>
+        <![CDATA[
+        Hazelcast - a simple distributed caching alternative
+        ]]>
+      </description>
+    </item>
+    
+    <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>IBM's 5 things series</title>
+      <link>http://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=5+things+you+did</link>
+      <guid isPermaLink="false">http://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=5+things+you+did</guid>
+      <description>
+        <![CDATA[
+        IBM's 5 things series -  amazing
+        ]]>
+      </description>
+    </item>
+    
+    <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>Great tutorial on Java Generics</title>
+      <link>http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html</link>
+      <guid isPermaLink="false">http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html</guid>
+      <description>
+        <![CDATA[
+        Great tutorial on Java Generics
+        ]]>
+      </description>
+    </item>
+    
+    
+    
+    
   </channel>
 </rss>

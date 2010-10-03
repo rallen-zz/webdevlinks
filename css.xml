@@ -18,5 +18,42 @@
 	        ]]>
       </description>
     </item>
+    
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>CSS3 Live</title>
+      <link>http://www.youtube.com/watch?v=_nbWikK2nHY</link>
+      <guid isPermaLink="false">http://www.youtube.com/watch?v=_nbWikK2nHY</guid>
+      <description>
+        <![CDATA[
+        Collection of youtube css3 tutorials by sitepoint
+        ]]>
+      </description>
+    </item>
+        
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>CSS3 Power Tools</title>
+      <link>http://net.tutsplus.com/tutorials/html-css-techniques/getting-to-work-to-with-css3-power-tools/Y</link>
+      <guid isPermaLink="false">http://net.tutsplus.com/tutorials/html-css-techniques/getting-to-work-to-with-css3-power-tools/</guid>
+      <description>
+        <![CDATA[
+        CSS3 Power Tools
+        ]]>
+      </description>
+    </item>
+    
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>CSS3 typography</title>
+      <link>http://net.tutsplus.com/tutorials/html-css-techniques/subtle-css3-typography-that-youd-swear-was-made-in-photoshop/</link>
+      <guid isPermaLink="false">http://net.tutsplus.com/tutorials/html-css-techniques/subtle-css3-typography-that-youd-swear-was-made-in-photoshop/</guid>
+      <description>
+        <![CDATA[
+       CSS3 typography
+        ]]>
+      </description>
+    </item>
+    
   </channel>
 </rss>

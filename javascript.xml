@@ -9,14 +9,28 @@
    
    <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
-      <title>Don&#8217;t Build from Scratch. You Now Have an HTML5 Boilerplate to Work With</title>
-      <link>http://feedproxy.google.com/~r/ajaxian/~3/al8IGiDtoao/dont-build-from-scratch-you-now-have-an-html5-boilerplate-to-work-with</link>
-      <guid isPermaLink="false">http://rallen.github.com/webdevlinks/html5.xml</guid>
+      <title>api.jquery.com</title>
+      <link>http://www.learningjquery.com/2010/09/introducing-jquery-api-search?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+LearningJquery+%28Learning+jQuery%29</link>
+      <guid isPermaLink="false">http://www.learningjquery.com/2010/09/introducing-jquery-api-search?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+LearningJquery+%28Learning+jQuery%29</guid>
       <description>
         <![CDATA[
-        An HTML5 boilerplate which leverages best practices to get your started. It&#8217;s essentially a good starting template of html and css and a folder structure that works.
+        searchable api via jsonp and some templates
         ]]>
       </description>
     </item>
+    
+     <item>
+      <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+      <title>14 helpful jquery tricks notes and best practices</title>
+      <link>http://net.tutsplus.com/tutorials/javascript-ajax/14-helpful-jquery-tricks-notes-and-best-practices/</link>
+      <guid isPermaLink="false">http://net.tutsplus.com/tutorials/javascript-ajax/14-helpful-jquery-tricks-notes-and-best-practices/</guid>
+      <description>
+        <![CDATA[
+        searchable api via jsonp and some templates
+        ]]>
+      </description>
+    </item>
+    
+    
   </channel>
 </rss>
