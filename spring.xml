@@ -9,14 +9,22 @@
    
    <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
-      <title>Don&#8217;t Build from Scratch. You Now Have an HTML5 Boilerplate to Work With</title>
-      <link>http://feedproxy.google.com/~r/ajaxian/~3/al8IGiDtoao/dont-build-from-scratch-you-now-have-an-html5-boilerplate-to-work-with</link>
-      <guid isPermaLink="false">http://rallen.github.com/webdevlinks/html5.xml</guid>
+      <title>Spring 3 MVC – Introduction to Spring 3 MVC Framework</title>
+      <link>http://viralpatel.net/blogs/2010/06/tutorial-spring-3-mvc-introduction-spring-mvc-framework.html</link>
+      <guid isPermaLink="false">http://viralpatel.net/blogs/2010/06/tutorial-spring-3-mvc-introduction-spring-mvc-framework.html</guid>
       <description>
         <![CDATA[
-        An HTML5 boilerplate which leverages best practices to get your started. It&#8217;s essentially a good starting template of html and css and a folder structure that works.
+             Part 1: Introduction to Spring 3.0 MVC framework
+             Part 2: Create Hello World Application in Spring 3.0 MVC
+             Part 3: Handling Forms in Spring 3.0 MVC
+             Part 4: Spring 3 MVC Tiles Plugin Tutorial with Example in Eclipse
+             Part 5: Spring 3 MVC Internationalization & Localization Tutorial with Example in Eclipse
+             Part 6: Spring 3 MVC Themes in Spring-Tutorial with Example
         ]]>
       </description>
     </item>
+    
+         
+    
   </channel>
 </rss>
