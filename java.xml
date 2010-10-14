@@ -3,7 +3,7 @@
   <channel>
     <title>robert's java resources</title>
     <link>http://rallen.github.com/webdevlinks/</link>
-    <description>various html5 demos and tutorials</description>
+    <description>various java articles</description>
     <generator>by hand</generator>
     <atom:link rel="self" href="http://rallen.github.com/webdevlinks/java.xml"/>
    
@@ -41,8 +41,7 @@
         Jodd | generic purpose java library and frameworks
         ]]>
       </description>
-    </item>
-    
+    </item>    
     
     <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
@@ -79,6 +78,78 @@
         ]]>
       </description>
     </item>
+    
+    <item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>Concepts Behind Advanced Regular Expressions</title>
+	<link>http://www.smashingmagazine.com/2009/05/06/introduction-to-advanced-regular-expressions/</link>
+	<guid isPermaLink="false">http://www.smashingmagazine.com/2009/05/06/introduction-to-advanced-regular-expressions/</guid>
+	<description>
+		<![CDATA[
+		Really good tutorial from Smashing Magazine
+		]]>
+	</description>
+</item>
+
+<item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>IBM - Essential Java resources</title>
+	<link>http://www.ibm.com/developerworks/java/library/j-javaresources.html?ca=dgr-lnxw16JavaList&S_TACT=105AGX59&S_CMP=grsitelnxw16</link>
+	<guid isPermaLink="false">http://www.ibm.com/developerworks/java/library/j-javaresources.html?ca=dgr-lnxw16JavaList&S_TACT=105AGX59&S_CMP=grsitelnxw16</guid>
+	<description>
+		<![CDATA[
+		A comprehensive listing of must-have books, sites, blogs, events, and more
+		]]>
+	</description>
+</item>
+
+<item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>Reflection on a bean</title>
+	<link>http://royontechnology.blogspot.com/2010/08/bean-properties-printer-useful.html</link>
+	<guid isPermaLink="false">http://royontechnology.blogspot.com/2010/08/bean-properties-printer-useful.html</guid>
+	<description>
+		<![CDATA[
+		xxxxxxxxxxxxxxxxxxxxx
+		]]>
+	</description>
+</item>
+
+<item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>Apache Commons DBCP and Tomcat JDBC Connection Pool</title>
+	<link>http://vigilbose.blogspot.com/2009/03/apache-commons-dbcp-and-tomcat-jdbc.html</link>
+	<guid isPermaLink="false">http://vigilbose.blogspot.com/2009/03/apache-commons-dbcp-and-tomcat-jdbc.html</guid>
+	<description>
+		<![CDATA[
+		xxxxxxxxxxxxxxxxxxxxx
+		]]>
+	</description>
+</item>
+
+<item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>gotchas with dbcp</title>
+	<link>http://royontechnology.blogspot.com/2009/02/gotchas-with-dbcp.html</link>
+	<guid isPermaLink="false">http://royontechnology.blogspot.com/2009/02/gotchas-with-dbcp.html</guid>
+	<description>
+		<![CDATA[
+		xxxxxxxxxxxxxxxxxxxxx
+		]]>
+	</description>
+</item>
+
+<item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>xxxxxxxxxxx</title>
+	<link>xxxxxxxxxxxxxx</link>
+	<guid isPermaLink="false">xxxxxxxxxxxxx</guid>
+	<description>
+		<![CDATA[
+		xxxxxxxxxxxxxxxxxxxxx
+		]]>
+	</description>
+</item>
     
     
     

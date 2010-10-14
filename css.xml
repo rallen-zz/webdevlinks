@@ -6,7 +6,31 @@
     <description>various css demos and tutorials</description>
     <generator>by hand</generator>
     <atom:link rel="self" href="http://rallen.github.com/webdevlinks/css.xml"/>
-   
+    
+   <item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>50 brilliant css3 javascript coding techniques</title>
+	<link>http://www.smashingmagazine.com/2010/02/01/50-brilliant-css3-javascript-coding-techniques/</link>
+	<guid isPermaLink="false">http://www.smashingmagazine.com/2010/02/01/50-brilliant-css3-javascript-coding-techniques/</guid>
+	<description>
+		<![CDATA[
+		bunch of articles from smashing magazine
+		]]>
+	</description>
+</item>
+
+<item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>50 New Useful CSS Techniques, Tutorials and Tools</title>
+	<link>http://www.smashingmagazine.com/2010/10/12/50-new-useful-css-techniques-tutorials-and-tools/</link>
+	<guid isPermaLink="false">http://www.smashingmagazine.com/2010/10/12/50-new-useful-css-techniques-tutorials-and-tools/</guid>
+	<description>
+		<![CDATA[
+		bunch of articles from smashing magazine
+		]]>
+	</description>
+</item>
+
    <item>
       <pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
       <title>CSS-Tricks code snippets</title>
@@ -67,6 +91,29 @@
       </description>
     </item>
     
+    <item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>Borders – Beveled, Pressed, & More!</title>
+	<link>http://www.sohtanaka.com/web-design/css-border-tricks-tutorial/</link>
+	<guid isPermaLink="false">xxxxxxhttp://www.sohtanaka.com/web-design/css-border-tricks-tutorial/xxxxxxx</guid>
+	<description>
+		<![CDATA[
+		great css tutorials
+		]]>
+	</description>
+</item>
+
+<item>
+	<pubDate>Thu, 12 Aug 2010 12:47:31 -0700</pubDate>
+	<title>.toucan-css-reset</title>
+	<link>http://borderleft.com/labs/</link>
+	<guid isPermaLink="false">http://borderleft.com/labs/</guid>
+	<description>
+		<![CDATA[
+		reset with good typography
+		]]>
+	</description>
+</item>
      
     
   </channel>
